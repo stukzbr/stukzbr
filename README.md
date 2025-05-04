@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Stukz!
 
-🎮 My name is **Flavio**, but you can call me **Stukz**.  
+🎮 My name is **Flavio Manke**, but you can call me **Stukz**.  
 👤 I'm a **Brazilian** currently studying **Software Development**.  
 🎯 Passionate about **GameDev** and everything related to game creation.  
 🏌️ Golf is one of my favorite hobbies — when I'm not coding, I'm probably on the course!
