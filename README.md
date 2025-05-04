@@ -11,7 +11,7 @@
 
 - 👾 I love building **2D games**, especially with creative and original mechanics.
 - 📚 Constantly learning more about **game design**, **programming logic**, and **software development**.
-- 🛠️ Working on personal projects using **GameMaker**, **web technologies**, and sometimes exploring **Unity**.
+- 🛠️ Working on personal projects using **GameMaker** and **web technologies**.
 
 ---
 
